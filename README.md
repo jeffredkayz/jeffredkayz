@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on open source projects 
-- 📫 you could reach me via jeffred626@outlook.com
+- 📫 you could reach me via jeffredkayz@outlook.com
 
 <!---
 jeffredkayz/jeffredkayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
